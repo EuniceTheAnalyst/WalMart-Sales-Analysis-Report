@@ -6,6 +6,8 @@ The objective of this analysis is to uncover actionable intelligence from the vi
 
 ### WalMart Sales Dashboard  
 
+![Screenshot 2025-04-10 084941](https://github.com/user-attachments/assets/e9aaadcd-786c-45b7-961f-838b8e351440)
+
 
 ### 1. Key Performance Indicators (KPIs)  
 **1.1 Total Sales**  
