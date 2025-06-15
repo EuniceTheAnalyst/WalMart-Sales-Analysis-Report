@@ -155,7 +155,7 @@ Layaway plans or discount cards
   
 Community outreach and engagement programs  
   
-Conclusion  
+### Conclusion  
 Walmart's sales performance reflects strong overall revenue, but with clear sensitivity to economic and environmental factors. Sales are driven not only by product availability and pricing but also by external forces like unemployment, fuel prices, and weather. Strategic alignment with these patterns can significantly enhance performance.  
   
 This analysis underscores the importance of a holistic, data-driven approach in retail strategy, blending operational insights with macroeconomic awareness.  
